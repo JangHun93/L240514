@@ -47,4 +47,7 @@ int main()
         }
         cout << endl;
     }
+
+    delete User;
+    delete Goal;
 }
